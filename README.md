@@ -1,4 +1,4 @@
-# PDF-Scrapping
+![combined_img](https://github.com/kalashshah1901/PDF-Scrapping/assets/89067995/3456ee55-e948-4487-963d-19f46a47d2b5)# PDF-Scrapping
 
 In this project we extract the text from the PDF using pdf-plumber Library in python.
 for example:
@@ -10,4 +10,8 @@ we get or extract this data then convert this data into pandas DataFrame
 Step 2: 
 file:///home/kalash/Documents/Kalash/myProjects/PDF-Scrap/output_img.png
 we convert this data into pandas DataFrmae and then save it to the Excel file
+
+Step 3: Output
+
+![Uploading combined_img.png…]()
 
